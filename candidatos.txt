@@ -1,0 +1,9 @@
+13;haddad;pt
+30;Joao Amoedo;NOVO
+50;Cabo Daciolo;DC
+12;Ciro da MASSA;PSB
+BRANCO;BRANCO;BRANCO
+NULO;NULO;NULO
+50;Cabo Daciolo;Patriota
+15;Meirelles;MDB
+45;marina;rede
